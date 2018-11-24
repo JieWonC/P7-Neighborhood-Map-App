@@ -199,6 +199,11 @@ input {
     transform: none;
 }
 
+#error-msg {
+    text-align: center;
+    color: #576574;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 730px) {

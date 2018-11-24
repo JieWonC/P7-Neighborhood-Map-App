@@ -19,8 +19,10 @@ class App extends Component {
     gm_authFailure() {
         let map = document.getElementById("map")
         map.innerHTML = `
-            <h1 id="errorMSG">Oops! Something went wrong.</h1>
-            <p>This page didn't load Google Maps correctly. See the JavaScript console for technical details.</p>
+            <div id="error-msg">
+                <h1>Oops! Something went wrong.</h1>
+                <p>This page didn't load Google Maps correctly. See the JavaScript console for technical details.</p>
+            </div>
         `
     }
 
