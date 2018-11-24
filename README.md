@@ -1,4 +1,4 @@
-#FEND P7: Neighborhood Map - React
+# FEND P7: Neighborhood Map - React
 
 This project is my final project in the [Udacity Front End Web Developer Nanodegree program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001). The goal of the project was to implement the Google Map API and other a third party API like Foursquare.
 
@@ -7,7 +7,7 @@ This project is my final project in the [Udacity Front End Web Developer Nanodeg
 - Corresponding map markers of the list itmes display on the map.
 - This map uses the Google Map API and Foursquare API for venue details.
 
-![React Neighborhood Map](https://ibb.co/iAZZaV)
+![React Neighborhood Map](https://image.ibb.co/fTXLFV/React-App.png)
 *Sorry! Maui island is NOT my neighborhood.*
 
 ## Folder Structure
@@ -37,7 +37,7 @@ This project is my final project in the [Udacity Front End Web Developer Nanodeg
     └── serviceWorker.js
 ```
 ## Setup Instructions
-- Clone the repo or Download a zip file `git clone https://github.com/JieWonC/.git`
+- Clone the repo or Download a zip file `git clone https://github.com/JieWonC/P7-Neighborhood-Map-App.git`
 - Install all needed dependencies with `npm install`
 - Start app with `npm start`
 - Live preview will opens via `http://localhost:3000/` by your browser.
